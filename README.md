@@ -1,5 +1,6 @@
 # README Generator
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
 Created a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package in node js.
 ## Table of Contents
 - [Description](#description)
