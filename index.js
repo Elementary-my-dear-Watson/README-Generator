@@ -45,7 +45,7 @@ async function init() {
     try {
         const answers = await inquirer.prompt(questions);
         console.log(answers);
-        writeToFile('README.md', generateMarkdown(answers));
+        writeToFile('test.md', generateMarkdown(answers));
     } catch (error) {
         console.error(error);
     }
