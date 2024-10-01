@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Create a professional README using the command line interface by responding to prompts and inputting information.
+Create a professional README using the command line interface by responding to prompts and inputting information. Please read below to get further information regarding installs and testing.
 
 ## Table of Contents
 - [Description](#description)
