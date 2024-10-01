@@ -1,8 +1,8 @@
-# README generator
+# README Generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Create a professional README using the command line interface by responding to prompts and inputting information
+Create a professional README using the command line interface by responding to prompts and inputting information.
 
 ## Table of Contents
 - [Description](#description)
@@ -14,7 +14,7 @@ Create a professional README using the command line interface by responding to p
 - [Questions](#questions)
 
 ## Description
-Create a professional README using the command line interface by responding to prompts and inputting information
+Create a professional README using the command line interface by responding to prompts and inputting information.
 
 ## Installation
 To install the necessary dependencies, run the following command:
