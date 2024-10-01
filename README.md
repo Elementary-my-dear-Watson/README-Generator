@@ -1,8 +1,8 @@
-# Marvis Boogey
+# README generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Oogey boogey
+Create a professional README using the command line interface by responding to prompts and inputting information
 
 ## Table of Contents
 - [Description](#description)
@@ -14,7 +14,7 @@ Oogey boogey
 - [Questions](#questions)
 
 ## Description
-Oogey boogey
+Create a professional README using the command line interface by responding to prompts and inputting information
 
 ## Installation
 To install the necessary dependencies, run the following command:
@@ -24,16 +24,16 @@ npm install
 ```
 
 ## Usage
-To generate a README file, simply run:
+To generate a README file, run:
 
 ```
 node index.js
 ```
 
-Follow the prompts to enter project details like title, description, license, and more.
+Follow the prompts to enter project details such as title, description, license, etc.
 
 ### Demo Video
-[![Watch the demo video](./assets/images/readme-generator-image.jpg)](https://drive.google.com/file/d/1aZ3uWixowVTMcmZ4DEwIenBj5TVxAAKh/view?usp=sharing)
+[![Watch the demo video](./assets/images/readme-generator-image.jpg)](https://drive.google.com/file/d/15EB6v90k8K4ACCW2BGPSk0LZsDUGvozc/view?usp=sharing)
 
 This demo shows the program's features, including generating a README file based on user inputs. Watch a demo by clicking the image above.
 
@@ -54,5 +54,5 @@ npm test
 ## Questions
 If you have any questions about the project, feel free to contact me:
 
-- GitHub: [marvis](https://github.com/marvis)
-- Email: marvis@boogey.com
+- GitHub: [Elementary-my-dear-Watson](https://github.com/Elementary-my-dear-Watson)
+- Email: marthacdenzer@gmail.com

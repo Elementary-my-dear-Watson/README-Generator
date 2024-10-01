@@ -53,16 +53,16 @@ npm install
 \`\`\`
 
 ## Usage
-To generate a README file, simply run:
+To generate a README file, run:
 
 \`\`\`
 node index.js
 \`\`\`
 
-Follow the prompts to enter project details like title, description, license, and more.
+Follow the prompts to enter project details such as title, description, license, etc.
 
 ### Demo Video
-[![Watch the demo video](./assets/images/readme-generator-image.jpg)](https://drive.google.com/file/d/1aZ3uWixowVTMcmZ4DEwIenBj5TVxAAKh/view?usp=sharing)
+[![Watch the demo video](./assets/images/readme-generator-image.jpg)](https://drive.google.com/file/d/1ISjgLDs7bIKPgQ1Ma9K7gRW3QX0DEaa9/view?usp=sharing)
 
 This demo shows the program's features, including generating a README file based on user inputs. Watch a demo by clicking the image above.
 
